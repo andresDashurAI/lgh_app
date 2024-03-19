@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536477685232",
+    "project_id": "chancelor-tech-lgh",
+    "storage_bucket": "chancelor-tech-lgh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536477685232:android:0f28e2f52abff53e1e7935",
+        "android_client_info": {
+          "package_name": "com.chancelortech.lgh.lgh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOd7VgunPNzk3EXppT_Vp0GixPZlkK0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
